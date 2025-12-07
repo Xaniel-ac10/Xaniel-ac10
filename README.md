@@ -12,10 +12,11 @@
 ![Bash](https://img.shields.io/badge/Bash-550000?logo=gnubash&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-700000?logo=visualstudiocode&logoColor=white)
 
+![Weather](https://wttr.in/Paris.png?0)
 
-![Gmail](arandaj232@gmail.com)
+### 😵 Mental Stability
+![Mental](https://progress-bar.dev/12/?title=Estabilidad&width=300&color=800000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xaniel-ac10&layout=compact&theme=maroongold)
 
 
 ## 🛰 Contact Node  
