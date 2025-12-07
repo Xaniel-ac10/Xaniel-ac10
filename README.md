@@ -9,14 +9,7 @@
 
 ![Python](https://img.shields.io/badge/Python-800000?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-8B0000?logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-550000?logo=gnubash&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-700000?logo=visualstudiocode&logoColor=white)
-
-![Weather](https://wttr.in/Paris.png?0)
-
-### 😵 Mental Stability
-![Mental](https://progress-bar.dev/12/?title=Estabilidad&width=300&color=800000)
-
 
 
 ## 🛰 Contact Node  
