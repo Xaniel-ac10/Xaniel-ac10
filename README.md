@@ -1,9 +1,8 @@
 <div align="center">
-
-# ✨ Sovietwave Terminal ✨  
+  
 **"The future, rewritten in red glass and cold steel."**
 
-<img src="https://i.imgur.com/e1XG4mQ.jpeg" width="450">
+<img src="https://media1.tenor.com/m/FTYBG5JyRvQAAAAd/rizz-apple.gif" width="450">
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=ny077owuw8f4s4ahd700r6mvv&count=1&width=380)
 
