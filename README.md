@@ -5,13 +5,9 @@
 
 <img src="https://i.imgur.com/e1XG4mQ.jpeg" width="450">
 
----
-
-## 🚩 Status Module
-
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=ny077owuw8f4s4ahd700r6mvv&count=1&width=380)
 
----
+
 
 ## 🔧 Tech Arsenal
 
@@ -26,7 +22,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=maroongold)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=maroongold)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@Xaniel-ac10&layout=compact&theme=maroongold)
 
 ---
 
